@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car Loan Calculator</string>
+    <string name="enter_car_price">Please enter the car price</string>
+    <string name="enter_down_payment">Please enter the down payment</string>
+    <string name="enter_load_period">Please enter the load period</string>
+    <string name="enter_interest_rate">Please enter the interest rate (year)</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="button_reset">Reset</string>
+</resources>
